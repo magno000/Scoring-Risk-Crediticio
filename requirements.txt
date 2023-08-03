@@ -2,7 +2,7 @@
 scikit-learn
 numpy
 pandas
-pickle
-matplotlib.pyplot
-warnings
+# pickle
+matplotlib
+# warning
 streamlit
