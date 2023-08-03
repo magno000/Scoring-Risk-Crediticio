@@ -1,0 +1,7 @@
+sklearn
+numpy
+pandas
+pickle
+matplotlib.pyplot
+warnings
+streamlit
